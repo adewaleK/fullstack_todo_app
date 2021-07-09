@@ -40,6 +40,7 @@
 .edit-icon{
     margin-right: 7px;
     background-color: green !important;
+    border-radius: 5px;
     padding: 1px 3px;
     color: #fff;
     cursor: pointer;
@@ -48,6 +49,7 @@
 .trash-icon{
     margin-right: 7px;
     background-color: red !important;
+    border-radius: 5px;
     padding: 1px 3px;
     color: #fff;
     cursor: pointer;
