@@ -1,0 +1,39 @@
+.add{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.add-box{
+    width: 95%;
+    display: flex;
+    
+}
+
+.add-icon{
+    background-color: green;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.item-input{
+    width: 90%;
+    padding: 8px 10px;
+    border: none;
+    background-color: #fce9e9;
+
+}
+
+.item-input:focus{
+    outline: none;
+}
